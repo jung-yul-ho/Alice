@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 0cbd10dda8810ac4db6ef44b258b1376
+labels:
+- Ambiences
+- Ambients
+- Atmospheres
+- Blood
+- Effects
+- Gore
+- Horror
+- Music
+- Props
+- Sound
+- Survival
+- Weapons
+timeCreated: 1496826006
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
